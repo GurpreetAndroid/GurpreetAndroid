@@ -310,7 +310,7 @@ If you find something useful in my repositories, feel free to ⭐ the project or
 ---
 
 📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gurpreets11&show_icons=true&theme=radical" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreets11&layout=compact&theme=radical&langs_count=6&count_private=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Gurpreets11&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gurpreets11&show_icons=true&theme=radical" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreets11&layout=compact&theme=radical&langs_count=6&count_private=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurpreets11&theme=tokyonight&hide_border=true" /> </p>
  
 
 # 📫 Get in Touch
